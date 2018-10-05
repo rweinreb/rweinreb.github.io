@@ -10,13 +10,7 @@ p {
   text-align: center
 }
 a:link {
-  color: rgb(169, 194, 169);
+  color: rgb(255, 78, 202);
   background-color: transparent;
   text-decoration: none;
-}
-li {
-  text-align: center;
-  outline-color: white;
-  outline-style: auto;
-  outline-width: 2mm
 }
