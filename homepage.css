@@ -10,7 +10,10 @@ p {
   text-align: center
 }
 a:link {
-  color: rgb(255, 78, 202);
+  color: rgb(148, 255, 246);
   background-color: transparent;
   text-decoration: none;
+}
+li {
+  text-align: center
 }
