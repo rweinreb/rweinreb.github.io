@@ -2,9 +2,26 @@ h1 {
     text-align: center;
     color: rgb(163, 163, 192)
 }
-li { 
+a:link {
+    color: rgb(148, 255, 246);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  li {
+    background-color: rgb(82, 165, 243); /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
     text-align: center;
-    color: rgb(218, 164, 164)
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
 }
 body {
     background-color: rgb(61, 63, 63)
